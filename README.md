@@ -4,7 +4,7 @@ This repository contains the source code for the paper:
 
 This work is based on the method introduced in
 
-**Yeo, J., & Papanicolaou, G. (2016). Random matrix approach to estimation of high-dimensional factor models. arXiv preprint arXiv:1611.05571.**
+**"Yeo, J., & Papanicolaou, G. (2016). Random matrix approach to estimation of high-dimensional factor models. arXiv preprint arXiv:1611.05571."**
 
 ## 📚 References
 
